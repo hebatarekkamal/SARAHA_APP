@@ -1,0 +1,12 @@
+﻿  Sarahah.cpp
+  user.cpp
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(18,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(242,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(267,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(285,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(286,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(308,36): warning C4018: '>': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(456,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\New folder (3)\Sarahah\user.cpp(480,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Sarahah.vcxproj -> C:\Users\DELL\Desktop\New folder (3)\Sarahah\Debug\Sarahah.exe
