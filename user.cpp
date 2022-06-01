@@ -76,13 +76,7 @@ void user::deleteoldest(deque<string>& fav_deque, string path) {
 
 
 }
-//set new elements of deque for new user
-void user:: delete_deque_element(deque<string>& fav_deque) {
-    while (!fav_deque.empty()) {
-        fav_deque.pop_back();
-    }
-}
-/*end of fav function*/
+
 
 string user:: generate_id(string file_path) {
     string line;
@@ -264,7 +258,7 @@ void user::Logic() {
         {
             int j = 0;
             stack<string>file_lines = view_all_send_message(username + '1');
-            for (int i = 0; i < file_lines.size(); i++)
+            while(! file_lines.empty())
             {
                 cout << file_lines.top() << endl;
                 file_lines.pop();
@@ -347,7 +341,8 @@ void user::Logic() {
         }
 
         else if (n == 9) {
-            delete_deque_element(favourite_deque);
+            contact_buket.clear();
+            favourite_deque.clear();
             break;
         }
 
