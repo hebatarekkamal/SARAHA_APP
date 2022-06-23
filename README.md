@@ -1,14 +1,16 @@
 # SARAHA_APP
 Modified صراحه
-Description Modified-Saraha is a website that allows you to send messages in an anonymous way, you 
+● Description
+Modified-Saraha is a website that allows you to send messages in an anonymous way, you 
 don’t know any data about the sender except his ID.
-● Main class user has:
+- Main class user has:
 ○ ID
 ○ username
 ○ password
 ○ List of Contacts
 ○ Messages
 - you can add additional helper classes.
+● Minimum Requirements
 - The website should allow the user to: 
 1. register/login
 2. Add a user in his contacts.
@@ -26,7 +28,6 @@ graded).
   - Clean and Efficient Code is a must.
   - You can Use the built in Data Structures Libraries (STLs in C++)
   - save the data using files
-Bonus - GUI.
-- any additional useful feature.
-Development Tool - Visual Studio
+●Development Tool
+- Visual Studio
 - C++ Language 
