@@ -9,8 +9,6 @@ don’t know any data about the sender except his ID.
 ○ List of Contacts
 ○ Messages
 - you can add additional helper classes.
-Minimum 
-Requirements
 - The website should allow the user to: 
 1. register/login
 2. Add a user in his contacts.
@@ -25,9 +23,9 @@ Requirements
 11. view all favorites messages .
 - Use suitable data structures for requirements (selection of Data Structure will be 
 graded).
-- Clean and Efficient Code is a must.
-- You can Use the built in Data Structures Libraries (STLs in C++)
-- save the data using files
+  - Clean and Efficient Code is a must.
+  - You can Use the built in Data Structures Libraries (STLs in C++)
+  - save the data using files
 Bonus - GUI.
 - any additional useful feature.
 Development Tool - Visual Studio
