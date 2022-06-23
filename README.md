@@ -9,9 +9,9 @@ don’t know any data about the sender except his ID.
 ○ password
 ○ List of Contacts
 ○ Messages
-- you can add additional helper classes.
+
 ● Minimum Requirements
-- The website should allow the user to: 
+○  The website should allow the user to: 
 1. register/login
 2. Add a user in his contacts.
 3. send a message to a contact.
@@ -23,7 +23,7 @@ don’t know any data about the sender except his ID.
 9. put a message in favorites.
 10. remove the oldest message from favorites.
 11. view all favorites messages .
-- Use suitable data structures for requirements (selection of Data Structure will be 
+○  Use suitable data structures for requirements (selection of Data Structure will be 
 graded).
   - Clean and Efficient Code is a must.
   - You can Use the built in Data Structures Libraries (STLs in C++)
